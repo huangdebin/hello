@@ -2,3 +2,7 @@ hello
 checkout dev
 debin 修改
 945630457 修改
+debin 的开发内容
+debin 的开发内容继续
+debin 的开发内容继续很多
+debin 的开发完毕，准备master合并到dev
